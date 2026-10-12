@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "864412791104",
+    "project_id": "subjectenrollment-40214",
+    "storage_bucket": "subjectenrollment-40214.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864412791104:android:ce652b7826cc301dfc0aa5",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZNjuERBOcHFuBaC5W6z5K5WN3s9xhaDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
